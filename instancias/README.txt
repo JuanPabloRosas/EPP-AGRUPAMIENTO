@@ -1,18 +1,18 @@
 Las instancias son 30 archivos separados por comas, 15 con estrés al inicio
 y 15 con estrés al final el nombre del archivo
-se conforma de los sguiente:
+se conforma de los siguiente:
 
 	Ejemplo:	f_1_2
 	posicionEstres_numInstancia_cantRequerimiento
 
-Cada instancias se conforman de 10 columnas y 88 renglones. Las instancias con
+Cada instancia se conforman de 10 columnas y 88 renglones. Las instancias con
 actividades de precedencia tiene solo el 30% de las actividades con precedencias.
 
 Las columnas significan lo siguiente:
 1.- Materia             (Toma el valor de 1 o 2, solo hay dos materias)
 2.- Tema                (Toma el valor de 1,2,3 o 4, solo existen 4 temas)
 3.- Subtema             (Toma el valor entre 1-8, solo existen 8 materias)
-4.- Núero de Actividad  (Toma el valor entre 1-88, solo existen 88 actividades)
+4.- Número de Actividad (Toma el valor entre 1-88, solo existen 88 actividades)
 5.- Duración            (Toma valores entre 3-15)
 6.- Valor               (Toma valores entre 9-15)
 7.- Estrés              (Toma valores entre XX, esta columna no la utilizamos para este modelo)
